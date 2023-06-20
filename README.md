@@ -1,5 +1,5 @@
 # LeadScoringCaseStudy
-Problem Description
+# Problem Description
 An education company named X Education sells online courses to industry professionals. On any 
 given day, many professionals who are interested in the courses land on their website and browse 
 for courses.
@@ -19,7 +19,7 @@ The company requires to build a model wherein we need to assign a lead score to 
 such that the customers with a higher lead score have a higher conversion chance and the 
 customers with a lower lead score have a lower conversion chance. The CEO, in particular, has 
 given a ballpark of the target lead conversion rate to be around 80%.
-Approach
+# Approach
 1. The I/P data has been thoroughly analyzed and cleaned for cases of
 - Null values
 - Unwanted Columns
@@ -47,7 +47,7 @@ Approach
 - Checking precision and recall tradeoff
 - Making final prediction on test set
 - Comparing accuracy, simplicity and specificity of test results with train results
-Conclusion
+# Conclusion
 As per model, below 3 features plays important role
 1. Lead Origin - lead add form
 2. What is your current occupation - working professional
